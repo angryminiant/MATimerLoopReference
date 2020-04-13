@@ -1,0 +1,6 @@
+framework module MATimerHelper {
+  umbrella header "MATimerHelper.h"
+
+  export *
+  module * { export * }
+}
